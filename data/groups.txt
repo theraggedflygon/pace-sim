@@ -1,0 +1,12 @@
+Detroit Catholic Central A,Chattahoochee A,Stevenson A,Sagittarius,Washington A,Thomas Jefferson E
+Richard Montgomery A,Great Valley,Parkway West,Hunter B,Waukee Northwest,Stevenson B
+Solon,Wayzata A,Legation School,Springfield,Johns Creek B,Thomas Jefferson F
+Hunter A,Belmont,Rockford Auburn A,Johns Creek A,Hoover B,DeWitt
+Barrington A,College Heights Christian,John P. Stevens,Thomas Jefferson D,Northmont,Detroit Catholic Central C
+Thomas Jefferson A,Glasgow,Manheim Township,Rockford Auburn B,Saint Joseph,Washington B
+Hoover A,Beavercreek,Southside A,Dunbar,IMSA B,Choate Rosemary Hall B
+Kinkaid,Thomas Jefferson B,Chattahoochee B,Canyon Crest,Hinsdale Central,Mexico
+Strake Jesuit,University Lab,Winston Churchill A,Carbondale,Detroit Catholic Central B,Carl Sandburg
+Lambert,High Tech,White Station,Richard Montgomery B,Barrington B,Moravia
+Mira Loma,IMSA A,Choate Rosemary Hall A,Wayzata B,Winston Churchill B,Calloway County
+Detroit Country Day,Ridgewood,Clayton,Thomas Jefferson C,Waukee,Southside B
